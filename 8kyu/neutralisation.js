@@ -20,8 +20,3 @@ function neutralise(s1, s2) {
     // Here be dragons!
     return result;
 }
-
-//RESULT:
-// ("--++--", "++--++") ➞ "000000"
-// ("-+-+-+", "-+-+-+") ➞ "-+-+-+"
-// ("-++-", "-+-+") ➞ "-+00"
