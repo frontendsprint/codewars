@@ -3,7 +3,7 @@
 // list. However, if an element is the word "flick", switch to always 
 // returning the opposite boolean value.
 
-////SOLUTION:
+//SOLUTION:
 
 function flickSwitch(arr){
     let result = [];
