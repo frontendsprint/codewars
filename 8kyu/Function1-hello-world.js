@@ -5,6 +5,6 @@
 
 // Write a function "greet" that returns "hello world!"
 function greet (){
-    let helloWorld = "Hello World!";
+    let helloWorld = "hello world!";
     return helloWorld;
   }
