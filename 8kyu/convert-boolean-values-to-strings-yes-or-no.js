@@ -1,3 +1,3 @@
 function boolToWord( bool ){
-    return (bool === true) ? true : false
+    return (bool === true) ? 'Yes' : 'No'
 }
